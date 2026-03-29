@@ -55,7 +55,7 @@
 
 | Area | Description |
 | :--- | :--- |
-| 🤖 **LLMs & RAG** | Large Language Models & Retrieval-Augmented Generation. |
+| 🤖 **LLMs & Agentic Systems** | Large Language Models & Agentic AI Systems. |
 | 🎧 **Audio AI** | Speech Emotion Recognition & Audio Processing. |
 | 🧠 **Applied AI** | AI solutions for Education & Healthcare. |
 
